@@ -22,10 +22,8 @@ We are simply setting up a solidity/hardhat project, understanding solidity file
 ## Twitter 
   **[Twitter page tutorials](https://twitter.com/bobman7000)**
   
-  
-  
-
-https://docs.soliditylang.org/en/v0.7.1/structure-of-a-contract.html
+## Solidity documentation
+  **[ReadTheDoc](https://docs.soliditylang.org/en/v0.7.1/structure-of-a-contract.html)**
 
 
 # Sample Hardhat Project
