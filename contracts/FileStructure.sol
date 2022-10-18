@@ -21,7 +21,7 @@ contract FileStructure {
 
   mapping (uint=>Folder) public folders;
 
-  constructor() public {}
+  constructor() {}
 
 
   function createFile() public returns (bool) {}
